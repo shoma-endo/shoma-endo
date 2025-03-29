@@ -8,7 +8,6 @@ Welcome to my GitHub profile! Here, you'll find information about my projects, i
 - 🌱 Learning Next.js or AI
 - 👯 Looking to collaborate on Web Front-end Development or AI-based Application Development
 - 💬 Ask me about (photographic) subject or muscle training or soccer
-- 📫 How to reach me: https://x.com/shoma_ai
 - 😄 Pronouns: make the chosen path the correct one
 - ⚡ Fun fact: Fast web app development with bolt.new
 
