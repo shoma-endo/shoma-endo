@@ -25,7 +25,7 @@ https://github.com/shoma-endo/pok-mon-pictorial-book
 
 ## Skills
 
-- Programming Languages: Javascript or Typescript or Ruby or PHP
+- Programming Languages: Javascript or Typescript or Ruby
 - Frameworks and Libraries: Vue.js or React.js or Nest.js or RubyonRails
 - Tools and Platforms: CircleCi or Docker or Gather or Datadog
 
